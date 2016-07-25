@@ -1,0 +1,8 @@
+.btn.white {
+    background-color: #fff;
+    color:009fda;
+    padding:20px;
+    text-decoration:none;
+    font-family:lato, arial;
+    border: 1px solid #000;
+}
